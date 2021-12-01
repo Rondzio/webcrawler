@@ -1,0 +1,4 @@
+Run at Wed, 1 Dec 2021 11:32:50 GMT
+com.udacity.webcrawler.ParallelWebCrawler#crawl took 0m 2s 560ms
+com.udacity.webcrawler.parser.PageParserImpl#parse took 0m 8s 672ms
+
